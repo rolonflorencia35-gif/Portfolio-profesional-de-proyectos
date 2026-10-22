@@ -7,74 +7,95 @@ Mi trabajo combina análisis de procesos, diseño de soluciones tecnológicas, i
 
 ## Proyectos seleccionados
 
-### ARIAsports — Plataforma de gestión deportiva
+### 1. ARIAsports — Plataforma de gestión deportiva
 
-Diseñé e implementé de forma independiente una plataforma integral de gestión para un club deportivo, actualmente utilizada por jugadores, entrenadores, administradores y personal contable.
+Diseñé e implementé de forma independiente una plataforma integral para la gestión de un club deportivo, utilizada por jugadores, entrenadores, administradores y personal contable.
 
-**Principales funcionalidades**
+**Alcance de la implementación**
+- Aproximadamente 150 jugadores, 8 entrenadores, 2 administradores y 1 contadora.
 - Gestión de jugadores, familias y registros.
 - Seguimiento de asistencia, partidos y convocatorias.
 - Administración de pagos, deudas y estado de seguros.
 - Alertas médicas, autorizaciones y seguimiento administrativo.
-- Herramientas de gestión adaptadas a las necesidades de cada perfil de usuario.
-- <img width="688" height="1529" alt="portfolio 5" src="https://github.com/user-attachments/assets/abb45a6e-b1df-47b0-9071-f0b7c325a0b7" />
-<img width="720" height="1363" alt="portfolio 6" src="https://github.com/user-attachments/assets/cc5c972b-cac1-417b-9148-e24b841ba83e" />
-
 
 **Mi participación**
 - Análisis de necesidades y procesos del club.
-- Diseño y construcción del sistema.
-- Implementación y configuración de funcionalidades.
+- Diseño, construcción e implementación del sistema.
 - Elaboración de manuales y capacitación de usuarios.
 - Soporte técnico y resolución de incidencias.
 
-**Resultado:** centralización de procesos de gestión en una plataforma utilizada en las operaciones reales del club.
+**Resultado:** los administradores realizan la gestión del club a través de la plataforma, centralizando procesos e información operativa.
 
-### ARIAturnos — Sistema de gestión de turnos
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/abb45a6e-b1df-47b0-9071-f0b7c325a0b7" width="280" alt="ARIAsports — captura de interfaz 1" />
+  <img src="https://github.com/user-attachments/assets/cc5c972b-cac1-417b-9148-e24b841ba83e" width="280" alt="ARIAsports — captura de interfaz 2" />
+</p>
 
-Diseñé e implementé un sistema configurable de gestión de turnos, utilizado en una barbería y un centro de estética.
+### 2. ARIAturnos — Sistema de gestión de turnos
+
+Diseñé e implementé un sistema configurable de gestión de turnos, utilizado en una barbería y un centro de estética, con aproximadamente 60 usuarios entre ambas implementaciones.
 
 **Principales funcionalidades**
 - Gestión de clientes, profesionales y servicios.
 - Administración de disponibilidad, horarios y reservas.
 - Diferentes perfiles de acceso según la función del usuario.
-- Agenda centralizada y adaptación a las necesidades de cada negocio.
+- Agenda centralizada y configuración adaptada a cada negocio.
 
 **Mi participación**
 - Diseño y desarrollo de la solución.
 - Adaptación del sistema a diferentes actividades comerciales.
-- Configuración e implementación para cada negocio.
+- Implementación y configuración para cada negocio.
 - Organización de los procesos de reserva y gestión de turnos.
 
-**Resultado:** digitalización y centralización de la gestión de turnos en dos negocios.
-<img width="720" height="1469" alt="portfolio 1" src="https://github.com/user-attachments/assets/3c7e9a42-1ae7-4f5e-93a5-e7ccaad3d147" />
-<img width="720" height="1600" alt="portfolio 2" src="https://github.com/user-attachments/assets/9ddedd35-8725-40ac-9ea8-c42c18abd4bc" />
-<img width="688" height="1303" alt="portfolio 3" src="https://github.com/user-attachments/assets/2f2f3e4b-a2a1-422a-b1db-d96a6fdd457b" />
-<img width="720" height="1221" alt="portfolio 7" src="https://github.com/user-attachments/assets/8a408342-5024-4e7d-a74f-d47c84f015dd" />
+**Resultado:** digitalización y centralización de la gestión de turnos en dos negocios reales.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3c7e9a42-1ae7-4f5e-93a5-e7ccaad3d147" width="240" alt="ARIAturnos — captura de interfaz 1" />
+  <img src="https://github.com/user-attachments/assets/9ddedd35-8725-40ac-9ea8-c42c18abd4bc" width="240" alt="ARIAturnos — captura de interfaz 2" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2f2f3e4b-a2a1-422a-b1db-d96a6fdd457b" width="240" alt="ARIAturnos — captura de interfaz 3" />
+  <img src="https://github.com/user-attachments/assets/8a408342-5024-4e7d-a74f-d47c84f015dd" width="240" alt="ARIAturnos — captura de interfaz 4" />
+</p>
 
+### 3. Automatización de procesos y atención digital
 
-### Automatización de procesos y atención digital
+Diseñé e implementé automatizaciones para atención, registro de usuarios, consultas comerciales y ventas a través de canales digitales.
 
-Diseñé e implementé automatizaciones para procesos de atención, registro, consultas y ventas mediante canales digitales.
-
-Entre los trabajos realizados se encuentran flujos automatizados para redes sociales, registro de usuarios, información comercial, gestión de consultas y procesos vinculados con sistemas de gestión.
+**Principales aplicaciones**
+- Automatización de consultas y flujos de información en redes sociales.
+- Registro de usuarios y orientación hacia el proceso correspondiente.
+- Automatización de información comercial y ventas de cursos.
+- Integración de formularios, correo electrónico, enlaces de WhatsApp y sistemas de gestión.
 
 **Mi participación**
-- Identificación de tareas repetitivas y oportunidades de automatización.
+- Identificación de tareas repetitivas y oportunidades de mejora.
 - Diseño de flujos de trabajo.
 - Integración de herramientas digitales.
 - Implementación, documentación y soporte.
+
+**Resultado:** implementación de automatizaciones funcionales para reducir tareas manuales y facilitar la atención y el seguimiento de usuarios.
+
+## Experiencia en gestión y operaciones
+
+Además de mi trabajo tecnológico, cuento con experiencia en coordinación académica, administración y dirección operativa.
+
+- Coordinación de más de 40 cursos.
+- Gestión de más de 800 estudiantes.
+- Supervisión de aproximadamente 20 coordinadores académicos.
+- Coordinación de más de 30 equipos de trabajo.
+
+Esta experiencia me permite abordar los proyectos desde las necesidades de las personas y las organizaciones, no solamente desde la tecnología.
 
 ## Herramientas y tecnologías
 
 - **IA y automatización:** ChatGPT, Gemini, Microsoft Copilot, ManyChat y n8n (básico).
 - **Sistemas digitales:** Lovable, Supabase y GitHub.
+- **Programación:** Python (básico).
 - **Gestión y productividad:** Google Workspace, Google Forms, Google Sheets y Microsoft Office.
-- **Comunicación digital:** Instagram, Facebook, Gmail y WhatsApp.
 
 ## Enfoque profesional
 
-Me interesa desarrollar soluciones útiles, mejorar procesos, facilitar la adopción de herramientas digitales y conectar las necesidades de las personas y las organizaciones con soluciones tecnológicas concretas.
+Me interesa contribuir en proyectos de implementación de software, Customer Success, operaciones digitales y automatización con IA, combinando análisis de procesos, organización, capacitación, soporte y resolución de problemas.
 
-El código fuente y los archivos internos de mis aplicaciones comerciales no se publican en este portfolio por motivos de propiedad intelectual y seguridad. Las funcionalidades y los proyectos se presentan de forma descriptiva.
+El código fuente y los archivos internos de mis aplicaciones comerciales no se publican en este portfolio por motivos de propiedad intelectual y seguridad. Las capturas y descripciones se utilizan para presentar las funcionalidades y el alcance de los proyectos sin exponer su implementación interna.
